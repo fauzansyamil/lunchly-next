@@ -1,5 +1,5 @@
 /* Home page: Playful & Warm design (classes prefixed pa-) */
-.pa{--pa-cream:#FFF3E6;--pa-sun:#FFC94D;--pa-ink:#2A1714;display:block}
+.pa{--pa-cream:#FFF3E6;--pa-sun:#FFC94D;--pa-ink:#2A1714;display:block;padding-bottom:96px}
 .pa h1,.pa h2,.pa h3{letter-spacing:-.03em}
 body:has(.pa){overflow-x:clip}
 .pa-sec{margin-top:72px}
